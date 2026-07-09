@@ -2,6 +2,8 @@ google.com, pub-5111427299147697, DIRECT, f08c47fec0942fa0
 
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 
+openx.com, 566788221, DIRECT, 6a698e2ec38604c6
+
 chocolateplatform.com, 22813, RESELLER, 49a66ce31a704197
 betweendigital.com, 44977, DIRECT
 themediagrid.com, 8USKI6, RESELLER, 9fac4a4a87c2a44f
